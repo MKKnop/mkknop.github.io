@@ -1,2 +1,11 @@
+# _config.yml
 theme: jekyll-theme-minimal
-title:  
+title: Privacy Policy
+description: ""
+logo: ""
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
+  repository_url: ""
+  owner_url: ""
