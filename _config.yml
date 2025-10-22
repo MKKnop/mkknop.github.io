@@ -2,7 +2,7 @@
 theme: jekyll-theme-minimal
 title: Privacy Policy
 description: ""
-logo: ""
+logo: /assets/coffeerings.png
 show_downloads: false
 github:
   is_project_page: false
