@@ -59,8 +59,7 @@ This creates your own brew history – a personal data set to learn from and imp
 ---
 
 ## 📩 Contact
-Email: **dev@mkknop.de**  
-GitHub: [github.com/MKKnop](https://github.com/MKKnop)
+Email: **coffeerings.app@gmail.com**  
 
 ---
 
