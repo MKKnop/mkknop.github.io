@@ -1,7 +1,6 @@
-# _config.yml
 theme: jekyll-theme-minimal
-title: Privacy Policy
-description: ""
+title: Coffee Rings – Info Pages
+description: "Privacy & Support for the Coffee Rings app"
 logo: /assets/coffeerings.png
 show_downloads: false
 github:
