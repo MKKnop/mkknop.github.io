@@ -10,10 +10,7 @@ permalink: /
 <h1 align="center">Coffee Rings</h1>
 
 <p align="center">
-  <a href="/support">Support</a> | <a href="/privacy">Privacy Policy</a>
+  <strong>Choose your language · Sprache wählen</strong><br>
+  <a href="/en/support/">English Support</a> · <a href="/en/privacy/">Privacy (English)</a><br>
+  <a href="/de/support/">Deutsch Support</a> · <a href="/de/privacy/">Datenschutz (Deutsch)</a>
 </p>
-
-Welcome! You’ll find the official **Support** and **Privacy Policy** for the Coffee Rings app here:
-
-- 👉 <a href="/support">Support (Help & Contact)</a>  
-- 🔐 <a href="/privacy">Privacy Policy</a>
